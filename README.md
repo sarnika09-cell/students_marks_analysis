@@ -1,17 +1,17 @@
-# 🎓 Student Performance Prediction (ML Project)
+# Student Performance Prediction (ML Project)
 
-## 📌 Overview
+## Overview
 
 This project predicts students' math scores using machine learning models based on demographic and academic features.
 
-## 🧠 Models Used
+## Models Used are:- 
 
 * Linear Regression
 * Decision Tree Regressor
 * Random Forest Regressor
 * K-Nearest Neighbors (KNN)
 
-## 📊 Dataset Features
+## Dataset Features
 
 * Gender
 * Race/Ethnicity
@@ -21,11 +21,11 @@ This project predicts students' math scores using machine learning models based 
 * Reading Score
 * Writing Score
 
-## 🎯 Target
+## Target
 
 * Math Score
 
-## ⚙️ Process
+## Process
 
 1. Data Cleaning
 2. Feature Encoding (One-Hot Encoding)
@@ -33,11 +33,11 @@ This project predicts students' math scores using machine learning models based 
 4. Model Evaluation (MAE)
 5. Model Comparison
 
-## 🏆 Results
+## Results
 
 Linear Regression achieved the lowest MAE, indicating best performance due to strong linear relationships in the dataset.
 
-## 🛠️ Technologies
+## Technologies
 
 * Python
 * NumPy
@@ -46,7 +46,7 @@ Linear Regression achieved the lowest MAE, indicating best performance due to st
 * Seaborn
 * Scikit-learn
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone repository
 2. Install dependencies:
